@@ -47,9 +47,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="relative z-10 container mx-auto px-4 py-8">
+      <div className="relative z-10 container mx-auto px-4 py-12">
         {/* Hero Section */}
-        <header className="text-center mb-16">
+        <header className="text-center mb-16 pt-8">
           <div className="mb-8">
             <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl mb-6 shadow-2xl">
               <svg className="w-10 h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
